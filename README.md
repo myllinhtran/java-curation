@@ -10,3 +10,4 @@ A curated list of resources and tutorials on programming with Java.
 
 #### Spring Boot
 * [Rest API with Spring Boot](https://javacodehouse.com/index.html)
+* [Build a Spring Boot app with user authentication](https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication)
