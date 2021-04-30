@@ -14,6 +14,6 @@ A curated list of resources and tutorials on programming with Java.
 * [Rest API with Spring Boot](https://javacodehouse.com/index.html)
 * [Build a Spring Boot app with user authentication](https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication)
 
-#### Open Source Projects
+## Open Source Projects
 * [Spring Boot Repo from BBC](https://github.com/bbc/spring-boot-repo)
 * [Spring Boot Pet Clinic](https://github.com/spring-projects/spring-petclinic)
